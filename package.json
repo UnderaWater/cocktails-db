@@ -1,6 +1,5 @@
 {
   "name": "cocktails-db",
-  "homepage": "https://UnderaWater.github.io/cocktails-db",  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
