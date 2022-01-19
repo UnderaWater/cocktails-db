@@ -14,7 +14,7 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Route exact path="/" >
+        <Route exact path="/cocktails-db" >
             <Home />
         </Route>
         <Route path="/about" >
